@@ -1,5 +1,5 @@
 # hubspot-crm-and-n8n-workflow-automation
-Production-Grade HubSpot CRM &amp; n8n Workflow Automation — Transforming Manual Lead Chaos Into a Fast, High-Converting, Fully Automated Sales Engine.
+Production-Grade HubSpot CRM and  n8n Workflow Automation — Transforming Manual Lead Chaos Into a Fast, High-Converting, Fully Automated Sales Engine.
 
 # ⚡ hubspot-crm-and-n8n-workflow-automation
 
