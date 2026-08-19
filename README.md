@@ -111,6 +111,8 @@ Sales Follow-Up Ready 🚀
 
 **Shows:** Clean prospect profiles being automatically established inside HubSpot CRM with proper tags and deal stages.
 
+![projects 6 HUBSPOT CRM — LEAD MANAGEMENT SETUP](projects%206%20HUBSPOT%20CRM%20%E2%80%94%20LEAD%20MANAGEMENT%20SETUP.png)
+
 ---
 
 ## 4️⃣ HubSpot CRM, Filter or Router and Google Sheets
