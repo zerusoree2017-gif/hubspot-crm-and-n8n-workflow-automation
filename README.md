@@ -99,6 +99,8 @@ Sales Follow-Up Ready 🚀
 
 **Shows:** The core engine of the n8n system executing complex logic operations smoothly and reliably.
 
+![n8n Workflow Automation](n8n%20Workflow%20Automation.png)
+
 ---
 
 ## 3️⃣ HUBSPOT CRM — LEAD MANAGEMENT SETUP
