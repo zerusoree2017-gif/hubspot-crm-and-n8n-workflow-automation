@@ -77,7 +77,6 @@ Instant Notification Alert
 Sales Follow-Up Ready 🚀
 
 ```
-
 ---
 
 # 📸 Live Workflow Demonstrations
@@ -119,6 +118,8 @@ Sales Follow-Up Ready 🚀
 **Branching Logic → HubSpot Update AND Google Sheets Append**
 
 **Shows:** Multi-app synchronization ensuring records are updated simultaneously across your CRM and tracking sheets without manual effort.
+
+![HubSpot CRM, Filter or Router and Google Sheets](HubSpot%20CRM%2C%20%20Filter%20or%20Router%20%20and%20Google%20Sheets.png)
 
 ---
 
