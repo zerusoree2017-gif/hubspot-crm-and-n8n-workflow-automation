@@ -89,6 +89,8 @@ Sales Follow-Up Ready 🚀
 
 **Shows:** How raw incoming data is instantly grabbed and pre-qualified before entering the main processing pipeline.
 
+![n8n Lead Capture & CRM Qualification Workflow](n8n%20Lead%20Capture%20%26%20CRM%20Qualification%20Workflow.png)
+
 ---
 
 ## 2️⃣ n8n Workflow Automation
