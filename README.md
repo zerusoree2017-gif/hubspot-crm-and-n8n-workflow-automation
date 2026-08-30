@@ -1,12 +1,8 @@
-# hubspot-crm-and-n8n-workflow-automation
-Production-Grade HubSpot CRM and  n8n Workflow Automation — Transforming Manual Lead Chaos Into a Fast, High-Converting, Fully Automated Sales Engine.
-
 # ⚡ hubspot-crm-and-n8n-workflow-automation
 
 > **Production-Grade HubSpot CRM & n8n Workflow Automation — Transforming Manual Lead Chaos Into a Fast, High-Converting, Fully Automated Sales Engine.**
 
 ---
-
 ## 📌 Project Overview
 
 I built this **hubspot-crm-and-n8n-workflow-automation** project to demonstrate how modern, scalable businesses can completely eliminate manual data entry. By seamlessly connecting web forms, **n8n nodes**, **HubSpot CRM**, and **Google Sheets**, this system instantly captures, validates, qualifies, and routes leads while keeping teams updated in real-time.
