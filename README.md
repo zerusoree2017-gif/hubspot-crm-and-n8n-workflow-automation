@@ -89,11 +89,11 @@ Sales Follow-Up Ready 🚀
 
 ---
 
-## 2️⃣ n8n Workflow Automation
+## 2️⃣ N8N, Hubspot , Google sheets and API Worklfows
 
 **Live Flow:**
 
-**Node Execution → Data Transformation → Logic Routing → API Action**
+**N8N  + Hubspot + Google sheets + API Worklfows**
 
 **Shows:** The core engine of the n8n system executing complex logic operations smoothly and reliably.
 
