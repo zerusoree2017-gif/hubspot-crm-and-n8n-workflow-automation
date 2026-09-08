@@ -97,7 +97,7 @@ Sales Follow-Up Ready 🚀
 
 **Shows:** The core engine of the n8n system executing complex logic operations smoothly and reliably.
 
-![n8n Workflow Automation](n8n%20Workflow%20Automation.png)
+![N8N, Hubspot, Google Sheets and API Workflow](N8N%2C%20Hubspot%20%2C%20Google%20sheets%20and%20API%20Worklfow.jfif)
 
 ---
 
